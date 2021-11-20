@@ -64,3 +64,7 @@ Your infra is ready to use now.
 6. Destroy previously-created infrastructure ```bash
 terraform destroy
 ```
+# Output
+
+Hit Load balancer Hostname/URL/DNS .
+![Screenshot from 2021-11-20 14-09-09](https://user-images.githubusercontent.com/21075788/142722039-9a29e793-8e3e-4ada-8fd2-93b352c9d86a.jpg)
