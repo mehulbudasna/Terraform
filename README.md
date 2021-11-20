@@ -51,18 +51,22 @@ Below is the architecture to be implemented:
 
 1. Create folder and Clone this repo.
 2. Change required variable value
-3. Initialize terraform using ```bash
+3. Initialize terraform using 
+```bash
 terraform init
 ```
-4. Show changes required by the current configuration ```bash
+4. Show changes required by the current configuration 
+```bash
 terraform plan
 ```
-5. Create or update infrastructure ```bash
+5. Create or update infrastructure 
+```bash
 terraform apply
 ```
 Your infra is ready to use now.
 
-6. Destroy previously-created infrastructure ```bash
+6. Destroy previously-created infrastructure 
+```bash
 terraform destroy
 ```
 # Output
