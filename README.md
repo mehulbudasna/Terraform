@@ -1,6 +1,7 @@
 # Terraform snippet for deploying ASG in private subnet behind ALB
 
 Below is the architecture to be implemented:
+![Screenshot from 2021-11-20 15-25-50](https://user-images.githubusercontent.com/21075788/142722126-ea486c98-4e94-4492-9cf8-172456154eae.png)
 
 # Prerequisites:
 1. AWS account
